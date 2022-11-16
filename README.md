@@ -1,7 +1,7 @@
 <h1 align="center">Hello! I'm Hassan Kuntze</h1>
 <h3 align="center">Brazilian developer, 23. Always learning!</h3>
 
-- 🌱 I’m currently learning **Java and PHP. Spring for Java, Laravel for PHP. React in the front-end.**
+- 🌱 I’m currently working with **Java on Spring Ecosystem and Javascript on ReactJS and Vue.js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/hskuntze?tab=repositories](https://github.com/hskuntze?tab=repositories)
 
