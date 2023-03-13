@@ -1,4 +1,4 @@
-<h1 align="center">Hello! I'm Hassan Kuntze</h1>
+<h1 align="center">Hello, world! I'm Hassan Kuntze</h1>
 <h3 align="center">Brazilian developer, 24. Always learning!</h3>
 
 - 🌱 I’m currently working with **Java on Spring Ecosystem and Javascript on ReactJS and Vue.js**
