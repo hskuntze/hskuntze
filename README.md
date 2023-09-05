@@ -1,75 +1,79 @@
-<h3>Hello, world! I'm Hassan Kuntze</h3>
-<h5>Brazilian developer, 24. Always learning!</h5>
+## 🤖 About me! 
+Hello, world! I'm Hassan, a brazilian dev that is trying (really hard) to be a Java specialist (((and maybe a reference in the tool?!)))
 
-**Spring with Java n' React with Javascript/Typescript** - 📫 How to reach me on
-**hskuntze@gmail.com or kuntzedevprojects@gmail.com**
+## 👨‍💻 My favorite *backend* tools
 
-<p
-  style="
-    display: grid;
-    grid-template-columns: auto auto auto auto;
-    gap: 40px;
-    align-items: center;
-    justify-content: center;
-  "
->
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-      alt="html5"
-      style="width: 50px; height: 50px"
-    />
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-      alt="css3"
-      style="width: 50px; height: 50px"
-    />
-  </a>
+<div>
+- 💙☕️ You can curse at it, beat it down, make fun of it but it'll always be there for you! "Code once, run everywhere" 
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
-      alt="java"
-      style="width: 50px; height: 50px"
+      alt="java" 
+      width=28
+      height=28
     />
   </a>
+</div>
+<div>
+- 🦾🍃 It's like a Swiss Army knife for Java devs... the perfect match!
   <a href="https://spring.io/" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg"
       alt="spring"
-      style="width: 50px; height: 50px"
+      width=25
+      height=25
     />
   </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
-      alt="docker"
-      style="width: 50px; height: 50px"
-    />
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
-      alt="postgresql"
-      style="width: 50px; height: 50px"
-    />
-  </a>
+</div>
+
+## 🎨 My favorite *frontend* tools
+<div>
+- ✨ You can compare it to a lead singer of a rock band 'cause it steals the show when it comes to front-end 
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
       alt="react"
-      style="width: 50px; height: 50px"
+      width=25
+      height=25
     />
   </a>
+</div>
+<div>
+- 💘 Since i'm a type lover... could go for Angular but i like fun 
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
       alt="typescript"
-      style="width: 50px; height: 50px"
+      width=25
+      height=25
     />
   </a>
-</p>
+</div>
+
+## ⚙️ Some other favorite tools
+<div>
+- 🐳 The cool way to package and run apps! 
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
+      alt="docker"
+      width=29
+      height=29
+    />
+  </a>
+</div>
+<div>
+- 🐘 The OG open-source database that still kicks ass 
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
+      alt="postgresql"
+      width=25
+      height=25
+    />
+  </a>
+</div>
+
 <br />
 <div style="display: flex; align-items: center; justify-content: center;">
   <img
